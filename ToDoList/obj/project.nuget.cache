@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IIgE4GAPXwLH9X6ovJ1oAfE45sOcy4YP/Nu79VWnN1l3evpboo4VsAMcvBPFd8/ph4e7XP6AvNhYrwkw9Wnw9A==",
+  "dgSpecHash": "1/kTHXXkPBukRCGtgBJUDBQIMmr+QJGGTCGmJbol4TbDARLI2nWKpagpLP3ao/Vxia9wCSlQEmgAL1ZKQISlNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList\\ToDoList.csproj",
+  "projectFilePath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrken\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mrken\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

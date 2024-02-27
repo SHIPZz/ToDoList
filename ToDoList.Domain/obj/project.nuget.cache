@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jTxIDCeCxNX3VZBJX3MIPMPQfWHQbpUdG4bfU+E/BBtjWX5DE9xJz/Yf1XQuiZxe+6xQFqFQqGo2F5zae5uIfw==",
+  "dgSpecHash": "CRvqlMNSUiJb+QvQZiEd7TkYhbNdGj39Hb87YEd8icUT147upieKCPRuMIE8Jf8Pf281Qgn2ZwosILYSXiSiiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
+  "projectFilePath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

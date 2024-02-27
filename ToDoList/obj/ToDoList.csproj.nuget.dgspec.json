@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+    "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
         "projectName": "ToDoList.DAL",
-        "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
+        "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
         "packagesPath": "C:\\Users\\mrken\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.DAL\\obj\\",
+        "outputPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrken\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
-                "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj"
+              "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
+                "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
+    "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
         "projectName": "ToDoList.Domain",
-        "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
+        "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
         "packagesPath": "C:\\Users\\mrken\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\obj\\",
+        "outputPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrken\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj": {
+    "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj",
+        "projectUniqueName": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj",
         "projectName": "ToDoList.Service",
-        "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj",
+        "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj",
         "packagesPath": "C:\\Users\\mrken\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Service\\obj\\",
+        "outputPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrken\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,11 +160,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
-                "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj"
+              "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+                "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj"
               },
-              "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
-                "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj"
+              "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
+                "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj"
               }
             }
           }
@@ -198,14 +198,14 @@
         }
       }
     },
-    "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\mrken\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrken\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,11 +222,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
-                "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj"
+              "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+                "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj"
               },
-              "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj": {
-                "projectPath": "C:\\Users\\mrken\\RiderProjects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj"
+              "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj": {
+                "projectPath": "C:\\Users\\mrken\\Desktop\\Projects\\ToDoList\\ToDoList.Service\\ToDoList.Service.csproj"
               }
             }
           }
