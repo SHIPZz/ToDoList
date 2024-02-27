@@ -4,6 +4,7 @@ using ToDoList.DAL.Interfaces;
 using ToDoList.Domain.Entities;
 using ToDoList.Domain.Enum;
 using ToDoList.Domain.Extensions;
+using ToDoList.Domain.Filters.Task;
 using ToDoList.Domain.Response;
 using ToDoList.Domain.ViewModels.Task;
 using ToDoList.Service.Interfaces;
@@ -71,11 +72,13 @@ public class TaskService : ITaskService
         }
     }
 
-    public async Task<IBaseResponse<IEnumerable<TaskViewModel>>> GetTasks()
+    public async Task<IBaseResponse<IEnumerable<TaskViewModel>>> GetTasks(TaskFilter taskFilter)
     {
         try
         {
             List<TaskViewModel> tasks = await _taskRepository.GetAll()
+                .WhereIf(!string.IsNullOrWhiteSpace(taskFilter.Name),x => x.Name == taskFilter.Name)
+                .WhereIf(taskFilter.ImportanceType.HasValue, x => x.ImportanceType == taskFilter.ImportanceType)
                 .Select(x => new TaskViewModel()
                 {
                     Id = x.Id,
